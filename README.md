@@ -1,6 +1,4 @@
+## Hi everyone
 <div align="center">
-  ## Hi everyone
-</div>
-<div align="center">
-  <img src="yosugano.jpg" alt="Центрированное изображение" width="600">
+  <img src="yosugano.jpg" alt="YosugaNoSora" width="600">
 </div>
