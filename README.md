@@ -1,4 +1,3 @@
-## Hi there 👋
-<div align="center'>
-<img src="yosugano.jpg" alt="Yosuga" width="600" height="600">
+<div align="center">
+    <img src="https://example.com/image.jpg" alt="Центрированное изображение" width="400">
 </div>
