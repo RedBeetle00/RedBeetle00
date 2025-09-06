@@ -1,4 +1,4 @@
 ## Hi everyone
 <div align="center">
-  <img src="yosugano.jpg" alt="YosugaNoSora" width="600">
+  <img src="yo.gif" alt="YosugaNoSora" width="750">
 </div>
